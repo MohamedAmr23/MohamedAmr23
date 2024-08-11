@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Mohamed Amr</h1>
 <h3 align="center">MERN Stack Developer from Egypt</h3>
