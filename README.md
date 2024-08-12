@@ -59,7 +59,8 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmr23)](https://github.com/MohamedAmr23/github-readme-activity-graph)
 
-![GitHub Snake](https://github.com/MohamedAmr23/MohamedAmr23/blob/output/github-snake.svg)
+![GitHub Snake](https://github.com/MohamedAmr23/MohamedAmr23/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
