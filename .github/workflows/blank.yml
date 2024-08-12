@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # This schedule runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake animation
+        uses: Platane/snk@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: dist/github-snake.svg
+
+      - name: Push the generated image to the repository
+        uses: actions/upload-artifact@v2
+        with:
+          name: github-snake
+          path: dist/github-snake.svg
