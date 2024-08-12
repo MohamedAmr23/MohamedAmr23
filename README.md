@@ -52,18 +52,18 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 
-<p ">
+<span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=compact&theme=radical" alt="Top Languages">
 
-</p>
-
+</span>
+  ### GitHub Stats:
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAmr23&theme=radical)
 
-
-
-### GitHub Stats:
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedAmr23&color=blue)
+
+
+
+
 
 
 
