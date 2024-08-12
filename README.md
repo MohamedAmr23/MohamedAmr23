@@ -57,7 +57,7 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=compact&theme=radical" alt="Top Languages">
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohamedAmr23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmr23)](https://github.com/MohamedAmr23/github-readme-activity-graph)
 
 
 
