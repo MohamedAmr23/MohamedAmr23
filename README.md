@@ -37,7 +37,9 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 
 ### 🛠️ Languages and Tools:
 #### Frontend:
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a> 
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 
@@ -58,13 +60,7 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <!-- Add more languages and tools as needed -->
-</p>
+
 
 ### GitHub Stats:
 
