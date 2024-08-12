@@ -64,3 +64,5 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAmr23&theme=radical)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedAmr23)](https://github.com/anuraghazra/github-readme-stats)
+
