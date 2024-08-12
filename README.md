@@ -54,6 +54,7 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=compact&theme=radical" alt="Top Languages">
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAmr23&theme=radical)
 </p>
 
 
@@ -62,12 +63,8 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 
 ### GitHub Stats:
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAmr23&theme=radical)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAmr23&theme=radical)](https://git.io/streak-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedAmr23&color=blue)
-![GitHub Snake](https://github.com/MohamedAmr23/MohamedAmr23/blob/output/github-contribution-grid-snake.svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohamedAmr23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
