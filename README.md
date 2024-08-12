@@ -54,10 +54,10 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 
 <p ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=compact&theme=radical" alt="Top Languages">
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAmr23&theme=radical)
+
 </p>
 
-
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAmr23&theme=radical)
 
 
 
