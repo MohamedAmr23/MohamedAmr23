@@ -55,3 +55,25 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/mohamed-amr-2b4480230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/profile.php?id=100030906974430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@mohamedamr8344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a> 
+  <!-- Add more languages and tools as needed -->
+</p>
+
+### GitHub Stats:
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAmr23&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=compact&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAmr23&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohamedAmr23&theme=react-dark)
