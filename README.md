@@ -54,8 +54,7 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedAmr23&theme=radical)](https://git.io/streak-stats)
-  ![Profile Views](https://komarev.com/ghpvc/?username=MohamedAmr23&color=blue)
-
+  <a href="(http://github-readme-streak-stats.herokuapp.com?user=MohamedAmr23&theme=radical" target="blank"><img align="center" src="https://git.io/streak-stats"  height="30" width="40" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=compact&theme=radical" alt="Top Languages">
 
 
