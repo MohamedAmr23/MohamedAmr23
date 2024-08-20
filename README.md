@@ -59,11 +59,7 @@ I'm a passionate MERN Stack Developer from Egypt with a strong focus on creating
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmr23)](https://github.com/MohamedAmr23/github-readme-activity-graph)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedAmr23)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
