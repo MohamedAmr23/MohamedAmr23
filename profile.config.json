@@ -1,77 +1,135 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Mohamed Amr",
+    "username": "MohamedAmr23",
+    "headline": "Frontend Developer | Full-Stack & AI",
+    "affiliation": "Banha University",
+    "location": "Egypt",
+    "status": "Building side projects",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Frontend Developer specializing in React.js, building scalable web applications with Next.js and TypeScript.",
+      "Expanding into full-stack development with Node.js and MongoDB, while exploring Machine Learning, Deep Learning, and Computer Vision."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Full-Stack Development",
+    "direction": "Frontend to Full-Stack & AI",
+    "themes": "React, Full-Stack, Machine Learning",
+    "narrative": "Building modern web applications while developing backend systems and artificial intelligence skills, aiming to become a versatile full-stack engineer with applied AI expertise."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Frontend Development",
+      "description": "Building scalable, modern web apps with React, Next.js, TypeScript, and modern UI libraries."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Full-Stack Development",
+      "description": "Expanding backend skills with Node.js, Express, MongoDB, and REST APIs."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Artificial Intelligence",
+      "description": "Learning Machine Learning, Deep Learning, and Computer Vision with Python, TensorFlow, and PyTorch."
+    },
+    {
+      "name": "Continuous Learning",
+      "description": "Improving engineering skills and exploring new technologies to stay versatile."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "name": "QuizWiz",
+      "url": "https://github.com/MohamedAmr23/Quiz-App",
+      "homepage": "https://quiz-app-4xvg.vercel.app/",
+      "focus": "Quiz Management Platform",
+      "summary": "Role-based quiz platform for instructors and students with live sessions, question generation, analytics, and JWT auth.",
+      "heroLabel": "Quiz Platform"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "NN Optimizer",
+      "url": "https://github.com/MohamedAmr23/Fourth-year-college-projects/blob/main/semester%202/optimization%20E.Eman%20Nasser/old.py",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Neural Network Optimization",
+      "summary": "Neural network built from scratch with NumPy, optimized using Genetic Algorithm and Particle Swarm Optimization.",
+      "heroLabel": "GA & PSO"
+    },
+    {
+      "name": "Staycation",
+      "url": "https://github.com/MohamedAmr23/Hotel-Booking-System",
+      "homepage": "https://hotel-booking-system-oo.vercel.app/",
+      "focus": "Hotel Booking System",
+      "summary": "Full-stack hotel booking platform with guest, user, and admin roles, payments, reviews, and JWT auth.",
+      "heroLabel": "Hotel Booking"
+    },
+    {
+      "name": "Car Price ML",
+      "url": "https://github.com/MohamedAmr23/Car-Prediction-",
+      "homepage": "",
+      "focus": "Car Price Prediction",
+      "summary": "ML project predicting car prices using preprocessing, feature engineering, and regression algorithms.",
+      "heroLabel": "Price Prediction"
+    },
+    {
+      "name": "PM System",
+      "url": "https://github.com/MohamedAmr23/Project-Management-System-",
+      "homepage": "https://project-management-system-lake-nine.vercel.app/",
+      "focus": "Project Management",
+      "summary": "Role-based project management platform with Kanban boards, task tracking, and manager/employee dashboards.",
+      "heroLabel": "Kanban PM"
+    },
+    {
+      "name": "Food App",
+      "url": "https://github.com/MohamedAmr23/Food-App",
+      "homepage": "https://food-app-red-two.vercel.app/",
+      "focus": "Food Management App",
+      "summary": "React-based food management app for recipes, categories, and users with authentication and responsive UI.",
+      "heroLabel": "Food App"
     }
   ],
   "techStack": [
-    "TypeScript",
+    "React",
     "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Tailwind CSS",
+    "Redux",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Git",
+    "Vercel",
+    "REST APIs",
+    "Framer Motion",
+    "shadcn/ui"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "MohamedAmr23",
+      "url": "https://github.com/MohamedAmr23",
       "logo": "github",
-      "color": "0B1220"
+      "color": "181717"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "mohamed-amr-dev",
+      "url": "https://www.linkedin.com/in/mohamed-amr-dev/",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    },
+    {
+      "label": "Portfolio",
+      "value": "View Portfolio",
+      "url": "https://portfolio-xi-one-18.vercel.app/",
+      "logo": "vercel",
+      "color": "000000"
     }
   ],
-  "activity": {
-    "enabled": true,
-    "limit": 6
-  },
-  "appearance": {
-    "palette": "signal"
-  },
-  "footer": "Building thoughtful systems and sharing what works."
+  "activity": { "enabled": true, "limit": 5 },
+  "appearance": { "palette": "signal" },
+  "footer": "Frontend Developer building toward Full-Stack & AI - always learning, always building."
 }
