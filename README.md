@@ -49,6 +49,16 @@ Building modern web applications while developing backend systems and artificial
 
 `React` · `Next.js` · `TypeScript` · `JavaScript` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS` · `Redux` · `Python` · `TensorFlow` · `PyTorch` · `Scikit-learn` · `Git` · `Vercel` · `REST APIs` · `Framer Motion` · `shadcn/ui`
 
+## Contribution Trail
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/contribution-trail-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/contribution-trail-light.svg">
+    <img src="./assets/hero/contribution-trail-dark.svg" alt="Contribution trail heatmap" width="100%">
+  </picture>
+</p>
+
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
