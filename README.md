@@ -61,9 +61,9 @@ Building modern web applications while developing backend systems and artificial
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MohamedAmr23&background=07111F&border=1E293B&stroke=1E293B&ring=7C3AED&fire=7C3AED&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=22D3EE&sideLabels=64748B&dates=64748B&hide_border=false&border_radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=MohamedAmr23&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=6D28D9&fire=6D28D9&currStreakNum=172554&sideNums=172554&currStreakLabel=0891B2&sideLabels=64748B&dates=64748B&hide_border=false&border_radius=10">
-    <img src="https://streak-stats.demolab.com/?user=MohamedAmr23&background=07111F&border=1E293B&stroke=1E293B&ring=7C3AED&fire=7C3AED&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=22D3EE&sideLabels=64748B&dates=64748B&hide_border=false&border_radius=10" alt="GitHub streak stats">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/streak-stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/streak-stats-light.svg">
+    <img src="./assets/hero/streak-stats-dark.svg" alt="GitHub streak stats" width="100%">
   </picture>
 </p>
 
@@ -71,9 +71,9 @@ Building modern web applications while developing backend systems and artificial
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=pie&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=E5E7EB&border_radius=10&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=pie&hide_border=true&bg_color=FFFFFF&title_color=0891B2&text_color=172554&border_radius=10&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=pie&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=E5E7EB&border_radius=10&langs_count=8" alt="Top languages chart">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/top-languages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/top-languages-light.svg">
+    <img src="./assets/hero/top-languages-dark.svg" alt="Top languages chart" width="100%">
   </picture>
 </p>
 
