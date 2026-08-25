@@ -10,6 +10,14 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&height=40&lines=Frontend+Developer+%7C+React.js;Growing+into+a+Full-Stack+Engineer;Exploring+Machine+Learning+%26+AI;Always+building%2C+always+learning.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=0891B2&center=true&vCenter=true&width=600&height=40&lines=Frontend+Developer+%7C+React.js;Growing+into+a+Full-Stack+Engineer;Exploring+Machine+Learning+%26+AI;Always+building%2C+always+learning.">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&height=40&lines=Frontend+Developer+%7C+React.js;Growing+into+a+Full-Stack+Engineer;Exploring+Machine+Learning+%26+AI;Always+building%2C+always+learning." alt="Typing animation">
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://github.com/MohamedAmr23"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-MohamedAmr23-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohamed-amr-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mohamed--amr--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://portfolio-xi-one-18.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -48,6 +56,26 @@ Building modern web applications while developing backend systems and artificial
 ## Tech Stack
 
 `React` · `Next.js` · `TypeScript` · `JavaScript` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS` · `Redux` · `Python` · `TensorFlow` · `PyTorch` · `Scikit-learn` · `Git` · `Vercel` · `REST APIs` · `Framer Motion` · `shadcn/ui`
+
+## Streak Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MohamedAmr23&background=07111F&border=1E293B&stroke=1E293B&ring=7C3AED&fire=7C3AED&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=22D3EE&sideLabels=64748B&dates=64748B&hide_border=false&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=MohamedAmr23&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=6D28D9&fire=6D28D9&currStreakNum=172554&sideNums=172554&currStreakLabel=0891B2&sideLabels=64748B&dates=64748B&hide_border=false&border_radius=10">
+    <img src="https://streak-stats.demolab.com/?user=MohamedAmr23&background=07111F&border=1E293B&stroke=1E293B&ring=7C3AED&fire=7C3AED&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=22D3EE&sideLabels=64748B&dates=64748B&hide_border=false&border_radius=10" alt="GitHub streak stats">
+  </picture>
+</p>
+
+## Top Languages
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=pie&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=E5E7EB&border_radius=10&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=pie&hide_border=true&bg_color=FFFFFF&title_color=0891B2&text_color=172554&border_radius=10&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=pie&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=E5E7EB&border_radius=10&langs_count=8" alt="Top languages chart">
+  </picture>
+</p>
 
 ## Contribution Trail
 
