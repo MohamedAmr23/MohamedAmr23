@@ -75,31 +75,36 @@ function monthLabels(cells) {
 
 function buildSvg({ cells, total, username, palette, mode, width }) {
   const colors = paletteDefinitions[palette][mode];
-  const cell = 11;
-  const gap = 3;
   const gridLeft = 34;
-  const gridTop = 46;
+  const rightMargin = 26;
+  const gridTop = 56;
   const weeks = Math.max(...cells.map((c) => c.week)) + 1;
+
+  const availableWidth = width - gridLeft - rightMargin;
+  const pitch = availableWidth / weeks;
+  const gap = Math.max(2, Math.round(pitch * 0.22));
+  const cell = Math.round(pitch - gap);
   const gridWidth = weeks * (cell + gap) - gap;
+
   const height = gridTop + 7 * (cell + gap) + 34;
-  const panelWidth = Math.max(width, gridLeft + gridWidth + 24);
+  const panelWidth = width;
 
   const rects = cells.map(({ week, weekday, level, date }) => {
     const x = gridLeft + week * (cell + gap);
     const y = gridTop + weekday * (cell + gap);
-    return `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="${levelColor(colors, level)}"><title>${date}: level ${level}</title></rect>`;
+    return `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="${Math.max(2, cell * 0.22)}" fill="${levelColor(colors, level)}"><title>${date}: level ${level}</title></rect>`;
   }).join("");
 
   const months = monthLabels(cells).map(({ week, month }) => {
     const x = gridLeft + week * (cell + gap);
-    return `<text x="${x}" y="${gridTop - 12}" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="${colors.muted}">${month}</text>`;
+    return `<text x="${x}" y="${gridTop - 14}" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="${colors.muted}">${month}</text>`;
   }).join("");
 
   const legendX = gridLeft;
   const legendY = height - 14;
   const legendCells = [0, 1, 2, 3, 4].map((lvl, i) => {
     const x = legendX + 46 + i * (cell + gap);
-    return `<rect x="${x}" y="${legendY - cell + 3}" width="${cell}" height="${cell}" rx="2.5" fill="${levelColor(colors, lvl)}"/>`;
+    return `<rect x="${x}" y="${legendY - cell + 3}" width="${cell}" height="${cell}" rx="${Math.max(2, cell * 0.22)}" fill="${levelColor(colors, lvl)}"/>`;
   }).join("");
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${panelWidth}" height="${height}" viewBox="0 0 ${panelWidth} ${height}" role="img" aria-labelledby="title desc">

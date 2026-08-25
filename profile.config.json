@@ -132,8 +132,4 @@
   "activity": { "enabled": true, "limit": 5 },
   "appearance": { "palette": "signal" },
   "footer": "Frontend Developer building toward Full-Stack & AI - always learning, always building."
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 82d7d51ab1961dc99e35322b99975c3b8134cd3d
