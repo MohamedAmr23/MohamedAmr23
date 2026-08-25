@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="200" viewBox="0 0 720 200" role="img" aria-labelledby="title desc">
+<title id="title">MohamedAmr23 streak stats</title>
+<desc id="desc">Total contributions, current streak, and longest streak over the last year.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#020617"/>
+<stop offset="1" stop-color="#11152F"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="720" height="200" rx="14" fill="url(#bg)" stroke="#1E293B"/>
+<rect x="12" y="12" width="696" height="176" rx="10" fill="#07111F" stroke="#1E293B"/>
+<text x="26" y="30" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1.5" fill="#22D3EE">STREAK.STATS</text>
+
+    <text x="120" y="86" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#E5E7EB">169</text>
+    <text x="120" y="114" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#E5E7EB">TOTAL (1Y)</text>
+    <text x="120" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#64748B">contributions</text>
+<line x1="240" y1="32" x2="240" y2="168" stroke="#1E293B" stroke-width="1"/>
+
+    <text x="360" y="86" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#7C3AED">1</text>
+    <text x="360" y="114" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#E5E7EB">CURRENT STREAK</text>
+    <text x="360" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#64748B">Aug 24 - Aug 24</text>
+<line x1="480" y1="32" x2="480" y2="168" stroke="#1E293B" stroke-width="1"/>
+
+    <text x="600" y="86" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#22D3EE">4</text>
+    <text x="600" y="114" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#E5E7EB">LONGEST STREAK</text>
+    <text x="600" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#64748B">Sep 28 - Oct 1</text>
+</svg>
