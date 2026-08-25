@@ -77,17 +77,6 @@ Building modern web applications while developing backend systems and artificial
   </picture>
 </p>
 
-## Top Languages 2
-
-## Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmr23&layout=donut&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
 ## Contribution Trail
 
 <p align="center">
