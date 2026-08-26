@@ -23,6 +23,8 @@ async function githubFetch(path) {
   return res.json();
 }
 
+const EXCLUDED_LANGUAGES = new Set(["Jupyter Notebook"]);
+
 async function collectLanguages(username) {
   const repos = await githubFetch(`/users/${username}/repos?per_page=100&type=owner`);
   const totals = {};
@@ -32,6 +34,7 @@ async function collectLanguages(username) {
     try {
       const langs = await githubFetch(`/repos/${username}/${repo.name}/languages`);
       for (const [lang, bytes] of Object.entries(langs)) {
+        if (EXCLUDED_LANGUAGES.has(lang)) continue;
         totals[lang] = (totals[lang] || 0) + bytes;
       }
     } catch {
