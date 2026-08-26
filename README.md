@@ -98,7 +98,9 @@ Building modern web applications while developing backend systems and artificial
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
+- Aug 25, 2026: pushed 1 commit to [MohamedAmr23/MohamedAmr23](https://github.com/MohamedAmr23/MohamedAmr23).
+- Aug 24, 2026: pushed 1 commit to [MohamedAmr23/MohamedAmr23](https://github.com/MohamedAmr23/MohamedAmr23).
+- Aug 24, 2026: created a branch in [MohamedAmr23/MohamedAmr23](https://github.com/MohamedAmr23/MohamedAmr23).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
