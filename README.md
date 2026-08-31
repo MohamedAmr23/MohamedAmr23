@@ -98,11 +98,11 @@ Building modern web applications while developing backend systems and artificial
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Aug 31, 2026: created a branch in [MohamedAmr23/Image-Explorer](https://github.com/MohamedAmr23/Image-Explorer).
 - Aug 26, 2026: pushed 1 commit to [MohamedAmr23/sentiment-analysis](https://github.com/MohamedAmr23/sentiment-analysis).
 - Aug 26, 2026: pushed 1 commit to [MohamedAmr23/Fourth-year-college-projects](https://github.com/MohamedAmr23/Fourth-year-college-projects).
 - Aug 26, 2026: pushed 1 commit to [MohamedAmr23/MohamedAmr23](https://github.com/MohamedAmr23/MohamedAmr23).
 - Aug 26, 2026: pushed 1 commit to [MohamedAmr23/Car-Prediction-](https://github.com/MohamedAmr23/Car-Prediction-).
-- Aug 25, 2026: pushed 1 commit to [MohamedAmr23/MohamedAmr23](https://github.com/MohamedAmr23/MohamedAmr23).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
