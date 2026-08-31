@@ -10,26 +10,26 @@
 <rect x="0" y="0" width="560" height="300" rx="14" fill="url(#bg)" stroke="#1E293B"/>
 <rect x="12" y="12" width="536" height="276" rx="10" fill="#07111F" stroke="#1E293B"/>
 <text x="26" y="30" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1.5" fill="#22D3EE">TOP.LANGUAGES</text>
-<path d="M 170 155 L 170.00 63.00 A 92 92 0 0 1 250.58 199.40 Z" fill="#22D3EE" stroke="#07111F" stroke-width="2"><title>TypeScript: 33.0%</title></path><path d="M 170 155 L 250.58 199.40 A 92 92 0 0 1 109.18 224.02 Z" fill="#38BDF8" stroke="#07111F" stroke-width="2"><title>JavaScript: 28.5%</title></path><path d="M 170 155 L 109.18 224.02 A 92 92 0 0 1 78.11 150.55 Z" fill="#7C3AED" stroke="#07111F" stroke-width="2"><title>CSS: 14.3%</title></path><path d="M 170 155 L 78.11 150.55 A 92 92 0 0 1 104.29 90.60 Z" fill="#2DD4BF" stroke="#07111F" stroke-width="2"><title>Python: 11.6%</title></path><path d="M 170 155 L 104.29 90.60 A 92 92 0 0 1 160.54 63.49 Z" fill="#F472B6" stroke="#07111F" stroke-width="2"><title>HTML: 11.0%</title></path><path d="M 170 155 L 160.54 63.49 A 92 92 0 0 1 164.48 63.17 Z" fill="#FACC15" stroke="#07111F" stroke-width="2"><title>C++: 0.7%</title></path><path d="M 170 155 L 164.48 63.17 A 92 92 0 0 1 167.23 63.04 Z" fill="#818CF8" stroke="#07111F" stroke-width="2"><title>Verilog: 0.5%</title></path><path d="M 170 155 L 167.23 63.04 A 92 92 0 0 1 168.42 63.01 Z" fill="#34D399" stroke="#07111F" stroke-width="2"><title>SCSS: 0.2%</title></path><path d="M 170 155 L 168.42 63.01 A 92 92 0 0 1 170.00 63.00 Z" fill="#22D3EE" stroke="#07111F" stroke-width="2"><title>Other: 0.3%</title></path>
+<path d="M 170 155 L 170.00 63.00 A 92 92 0 0 1 254.25 191.97 Z" fill="#22D3EE" stroke="#07111F" stroke-width="2"><title>JavaScript: 31.6%</title></path><path d="M 170 155 L 254.25 191.97 A 92 92 0 0 1 129.31 237.51 Z" fill="#38BDF8" stroke="#07111F" stroke-width="2"><title>TypeScript: 25.7%</title></path><path d="M 170 155 L 129.31 237.51 A 92 92 0 0 1 78.64 165.86 Z" fill="#7C3AED" stroke="#07111F" stroke-width="2"><title>CSS: 15.8%</title></path><path d="M 170 155 L 78.64 165.86 A 92 92 0 0 1 98.94 96.56 Z" fill="#2DD4BF" stroke="#07111F" stroke-width="2"><title>Python: 12.8%</title></path><path d="M 170 155 L 98.94 96.56 A 92 92 0 0 1 159.51 63.60 Z" fill="#F472B6" stroke="#07111F" stroke-width="2"><title>HTML: 12.2%</title></path><path d="M 170 155 L 159.51 63.60 A 92 92 0 0 1 163.87 63.20 Z" fill="#FACC15" stroke="#07111F" stroke-width="2"><title>C++: 0.8%</title></path><path d="M 170 155 L 163.87 63.20 A 92 92 0 0 1 166.92 63.05 Z" fill="#818CF8" stroke="#07111F" stroke-width="2"><title>Verilog: 0.5%</title></path><path d="M 170 155 L 166.92 63.05 A 92 92 0 0 1 168.25 63.02 Z" fill="#34D399" stroke="#07111F" stroke-width="2"><title>SCSS: 0.2%</title></path><path d="M 170 155 L 168.25 63.02 A 92 92 0 0 1 170.00 63.00 Z" fill="#22D3EE" stroke="#07111F" stroke-width="2"><title>Other: 0.3%</title></path>
 
       <rect x="330" y="40" width="12" height="12" rx="3" fill="#22D3EE"/>
-      <text x="350" y="50.5" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#E5E7EB">TypeScript</text>
-      <text x="534" y="50.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">33.0%</text>
+      <text x="350" y="50.5" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#E5E7EB">JavaScript</text>
+      <text x="534" y="50.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">31.6%</text>
       <rect x="330" y="64" width="12" height="12" rx="3" fill="#38BDF8"/>
-      <text x="350" y="74.5" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#E5E7EB">JavaScript</text>
-      <text x="534" y="74.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">28.5%</text>
+      <text x="350" y="74.5" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#E5E7EB">TypeScript</text>
+      <text x="534" y="74.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">25.7%</text>
       <rect x="330" y="88" width="12" height="12" rx="3" fill="#7C3AED"/>
       <text x="350" y="98.5" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#E5E7EB">CSS</text>
-      <text x="534" y="98.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">14.3%</text>
+      <text x="534" y="98.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">15.8%</text>
       <rect x="330" y="112" width="12" height="12" rx="3" fill="#2DD4BF"/>
       <text x="350" y="122.5" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#E5E7EB">Python</text>
-      <text x="534" y="122.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">11.6%</text>
+      <text x="534" y="122.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">12.8%</text>
       <rect x="330" y="136" width="12" height="12" rx="3" fill="#F472B6"/>
       <text x="350" y="146.5" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#E5E7EB">HTML</text>
-      <text x="534" y="146.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">11.0%</text>
+      <text x="534" y="146.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">12.2%</text>
       <rect x="330" y="160" width="12" height="12" rx="3" fill="#FACC15"/>
       <text x="350" y="170.5" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#E5E7EB">C++</text>
-      <text x="534" y="170.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">0.7%</text>
+      <text x="534" y="170.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">0.8%</text>
       <rect x="330" y="184" width="12" height="12" rx="3" fill="#818CF8"/>
       <text x="350" y="194.5" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#E5E7EB">Verilog</text>
       <text x="534" y="194.5" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">0.5%</text>
