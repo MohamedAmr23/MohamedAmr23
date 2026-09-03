@@ -11,14 +11,14 @@
 <rect x="12" y="12" width="696" height="176" rx="10" fill="#FFFFFF" stroke="#E2E8F0"/>
 <text x="26" y="30" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1.5" fill="#0891B2">STREAK.STATS</text>
 
-    <text x="120" y="86" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#172554">198</text>
+    <text x="120" y="86" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#172554">206</text>
     <text x="120" y="114" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#172554">TOTAL (1Y)</text>
     <text x="120" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#64748B">contributions</text>
 <line x1="240" y1="32" x2="240" y2="168" stroke="#E2E8F0" stroke-width="1"/>
 
-    <text x="360" y="86" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#6D28D9">2</text>
+    <text x="360" y="86" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#6D28D9">3</text>
     <text x="360" y="114" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#172554">CURRENT STREAK</text>
-    <text x="360" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#64748B">Aug 31 - Sep 1</text>
+    <text x="360" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#64748B">Aug 31 - Sep 2</text>
 <line x1="480" y1="32" x2="480" y2="168" stroke="#E2E8F0" stroke-width="1"/>
 
     <text x="600" y="86" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#0891B2">4</text>
