@@ -98,10 +98,7 @@ Building modern web applications while developing backend systems and artificial
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Sep 2, 2026: created a branch in [MohamedAmr23/Image-Explorer](https://github.com/MohamedAmr23/Image-Explorer).
-- Sep 2, 2026: created a branch in [MohamedAmr23/California_Housing](https://github.com/MohamedAmr23/California_Housing).
-- Sep 2, 2026: pushed 1 commit to [MohamedAmr23/Image-Explorer](https://github.com/MohamedAmr23/Image-Explorer).
-- Sep 2, 2026: pushed 1 commit to [MohamedAmr23/California_Housing](https://github.com/MohamedAmr23/California_Housing).
+_No recent public activity was found._
 <!-- AUTO:ACTIVITY:END -->
 
 ---
